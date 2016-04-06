@@ -1,0 +1,16 @@
+{
+  "name": "daypilot",
+  "description": "",
+  "version":"1.0.0",
+  "main": "daypilot-all.min.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
